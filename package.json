@@ -1,0 +1,19 @@
+{
+	"name": "node-savings",
+	"version": "0.1.0",
+	"author": "Tyler Hadidon <hadidotj@gmail.com>",
+	"description": "A Node JS package that provides a highly customizable way to keep track of spending",
+	"keywords": [ "savings", "financial", "tracking", "habits", "spending", "notifications" ],
+	"main": "./Savings.js",
+	"dependencies": {
+		"imap": "0.8.14",
+		"nodemailer": "1.3.4"
+	},
+	"engines": { "node": ">=0.10.0" },
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/hadidotj/Node-Savings.git"
+	},
+	"license": "MIT",
+	"homepage": "http://hadidotj.com"
+}
